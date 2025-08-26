@@ -1,0 +1,2 @@
+# gitea-download-template
+一个测试能用的docker部署的gitea服务，为了无外网环境下通过局域网完成git合作开发
